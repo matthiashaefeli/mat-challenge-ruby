@@ -8,7 +8,15 @@
 #
 module FileOwners
   def self.group_by_owners(files)
-    return nil
+    new_files = {}
+    files.each do |key, val|
+      if new_files.key?(val)
+        new_files[val].push(key)
+      else
+        new_files[val] = [key]
+      end
+    end
+    new_files
   end
 end
 
