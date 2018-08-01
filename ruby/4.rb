@@ -1,4 +1,4 @@
-# Binary Search Tree
+# Binary Search Tree Challenge
 #
 # insert and search for numbers in a binary tree.
 #
