@@ -1,4 +1,4 @@
-# Custom Set
+# Custom Set Challenge
 #
 # Create a custom set type.
 #
