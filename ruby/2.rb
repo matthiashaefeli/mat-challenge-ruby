@@ -1,4 +1,4 @@
-# Phone Number
+# Phone Number Challenge
 #
 # Clean up user-entered phone numbers so that they can be sent SMS messages.
 #
