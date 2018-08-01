@@ -1,4 +1,4 @@
-# PHP Challenges
+# StaffingNation Challenges
 
 Complete as many of the challenges as you can and let us know how you got on. Let us know if we made any mistakes or if you can come up with some better questions.
 
