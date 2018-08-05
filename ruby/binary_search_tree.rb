@@ -53,9 +53,3 @@ class Bst
 
 
 end
-
-# four = Bst.new 4
-# four.insert 2
-# four.data
-# four.tree
-# four.left.data
